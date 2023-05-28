@@ -34,3 +34,4 @@ gem 'jekyll-sitemap'
 gem 'kramdown-math-katex'
 
 gem "webrick", "~> 1.7"
+gem "liquid", "~> 4.0"

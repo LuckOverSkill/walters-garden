@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Post
 ---
 
 <h1>{{ tag }} Posts</h1>

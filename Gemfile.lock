@@ -100,6 +100,7 @@ DEPENDENCIES
   jekyll-tagging
   jekyll-tidy
   kramdown-math-katex
+  liquid (~> 4.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
