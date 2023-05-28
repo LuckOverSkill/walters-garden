@@ -3,4 +3,4 @@ title: Test note
 feed: show
 ---
 
-lorem ipsum dolor sit amen
+lorem ipsum dolor sit amen [[backlink test]]. 
