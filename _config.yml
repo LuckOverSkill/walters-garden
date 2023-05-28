@@ -57,6 +57,7 @@ preferences:
 encoding: utf-8
 
 # Build settings
+plugins_dir: [_plugins]
 theme: null
 plugins:
   - jekyll-feed 
@@ -120,9 +121,3 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_permalink_style: pretty
-tag_page_data:
-  sitemap: false
