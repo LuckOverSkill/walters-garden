@@ -1,8 +1,0 @@
----
-layout: default
-title: Tag
-permalink: /tag/:name/
----
-{% for post in site.tags[page.name] %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{% endfor %}
