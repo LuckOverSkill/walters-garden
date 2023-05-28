@@ -1,7 +1,7 @@
 ---
 title: Test note
 feed: show
-tags: psychology
+tags: ["psychology"]
 ---
 
 lorem ipsum dolor sit amen [[backlink test]]. 
