@@ -2,7 +2,7 @@
 title: backlink test
 feed: show
 tags: ["economics", "psychology", "food"]
-layout: default
+layout: Post
 ---
 
 prova prova prova [[Test note]]

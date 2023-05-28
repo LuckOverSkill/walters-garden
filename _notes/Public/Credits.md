@@ -4,7 +4,7 @@ feed: hide
 permalink: /credits
 format: list
 tags: ["Credits"]
-layout: default
+layout: Post
 ---
 
 -   [Raghuveer](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll)
