@@ -60,8 +60,6 @@ encoding: utf-8
 theme: null
 plugins:
   - jekyll-feed 
-      feed:
-       path: "/feed.xml"
   - jekyll-sitemap 
   - jekyll-tidy
     
