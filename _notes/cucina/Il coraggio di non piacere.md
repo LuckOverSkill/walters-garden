@@ -1,0 +1,2 @@
+
+[Visakan Veerasamy on Twitter: "The courage to be disliked, Ichiro Kishimi and Fumitake Koga. Heard good things, let’s dig in https://t.co/yriXyV6LMn" / Twitter](https://twitter.com/visakanv/status/1037715339314847747)
